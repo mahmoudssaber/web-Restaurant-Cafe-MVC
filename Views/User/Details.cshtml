@@ -1,0 +1,57 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<CustomUser> SignInManager
+@inject UserManager<CustomUser> UserManager
+@model food_delivery.Models.CustomUser
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div>
+    <h4>User Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+        @if (User.IsInRole("Default"))
+        {
+            <dt class="col-sm-3">Favorite Restaurants</dt>
+            <dd class="col-sm-9">
+                <a class="nav-link btn btn-secondary text-white d-inline p-2" asp-controller="User" asp-action="RestList" asp-route-id="@Model.Id">Go to list</a>
+            </dd>
+            <dt class="col-sm-3 mt-2">Favorite Dishes</dt>
+            <dd class="col-sm-9 mt-2">
+                <a class="nav-link btn btn-secondary text-white d-inline p-2" asp-controller="User" asp-action="DishList" asp-route-id="@Model.Id">Go to list</a>
+            </dd>
+        } 
+    </dl>
+</div>
+<div>
+    <a class="btn btn-warning me-5" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>
+    <a class="btn btn-info"  asp-controller="Home" asp-action="Index">Back</a>
+</div>
+
+ 
+

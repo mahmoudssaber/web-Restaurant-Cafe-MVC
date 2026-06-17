@@ -1,0 +1,51 @@
+﻿@model food_delivery.Models.Reservation
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3 class="fs-bold text-primary text-center">Are you sure to delete this restaurant?</h3>
+<hr />
+
+<div>
+    <h4>Reservation</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-12 col-md-5 mx-auto">
+            @Html.DisplayNameFor(model => model.ReservationDate)
+        </dt>
+        <dd class="col-12 col-md-5 mx-auto">
+            @Html.DisplayFor(model => model.ReservationDate)
+        </dd>
+        <dt class="col-12 col-md-5 mx-auto">
+            @Html.DisplayNameFor(model => model.NumberOfGuests)
+        </dt>
+        <dd class="col-12 col-md-5 mx-auto">
+            @Html.DisplayFor(model => model.NumberOfGuests)
+        </dd>
+        <dt class="col-12 col-md-5 mx-auto">
+            @Html.DisplayNameFor(model => model.CustomUser)
+        </dt>
+        <dd class="col-12 col-md-5 mx-auto">
+            @Html.DisplayFor(model => model.CustomUser.Id)
+        </dd>
+        <dt class="col-12 col-md-5 mx-auto">
+            @Html.DisplayNameFor(model => model.restaurant)
+        </dt>
+        <dd class="col-12 col-md-5 mx-auto">
+            @Html.DisplayFor(model => model.restaurant.Description)
+        </dd>
+        <dt class="col-12 col-md-5 mx-auto">
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+        <dd class="col-12 col-md-5 mx-auto">
+            @Html.DisplayFor(model => model.status.Id)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger me-5" /> |
+        <a class="btn btn-info" asp-action="Index">Back</a>
+    </form>
+</div>

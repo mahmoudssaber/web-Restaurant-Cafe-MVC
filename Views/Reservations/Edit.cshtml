@@ -1,0 +1,56 @@
+﻿@model food_delivery.Models.ReservationDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<h4>Eide Reservation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-12 col-md-8">
+        <h1 class="text-center">Eide Reservation</h1>
+        <h4>Reservation</h4>
+        <hr />
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ReservationId" />
+            <input type="hidden" asp-for="RestId" />
+            <div class="form-group my-2">
+                <label for="date" class="control-label mt-3 fw-bold">Reservation date</label>
+                <input id="date" asp-for="ReservationDate" class="form-control mt-3" pattern="\d{4}-\d{2}-\d{2}" title="The date must be later than the current date." required />
+                <span asp-validation-for="ReservationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group my-2">
+                <label for="Diners" class="control-label mt-3 fw-bold">Diners</label>
+                <input id="Diners" asp-for="NumberOfGuests" class="form-control mt-3" />
+                <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <input type="submit" value="Keep" class="btn btn-primary me-5" />
+                <a class="btn btn-info" asp-controller="User" asp-action="Reservation">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    var dateInput = document.getElementById("date");
+    var currentdate = new Date().toISOString().split("T")[0];
+    dateInput.setAttribute("min", currentdate);
+
+    dateInput.addEventListener("input", function (event) {
+        var selecteddate = event.target.value;
+        var dateError = document.getElementById("dateError");
+
+        if (selecteddate <= currentdate) {
+            dateError.style.display = "block";
+        } else {
+            dateError.style.display = "none";
+        }
+    });
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

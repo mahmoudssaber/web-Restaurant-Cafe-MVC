@@ -1,0 +1,56 @@
+﻿@model food_delivery.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-12 col-md-8">
+        <h1 class="text-center">Create Restaurant</h1>
+        <h4>Restaurant</h4>
+        <hr />
+        <form asp-action="Create" asp-route-id="@ViewBag?.managerId" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="Name" class="form-control mt-3" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="Description" class="form-control mt-3" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Image" class="control-label mt-3 fw-bold">Select image: </label>
+                <input  asp-for="RestUrl" type="file"  name="Image" id="Image" class="form-control mt-3" />
+                <span class="text-danger">@ViewBag?.error</span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="PhoneNumber" class="form-control mt-3" pattern="[0-11]{11}" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Rating" value="0" class="form-control mt-3" />
+            <div class="form-group">
+                <label asp-for="TypeId" class="control-label mt-3 fw-bold">Type</label>
+                <select asp-for="TypeId" class="form-control mt-3" asp-items="ViewBag.TypeId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ZoneId" class="control-label mt-3 fw-bold">zone</label>
+                <select asp-for="ZoneId" class="form-control mt-3" asp-items="ViewBag.ZoneId"></select>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary me-5" />
+                <a class="btn btn-info" asp-action="Index">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

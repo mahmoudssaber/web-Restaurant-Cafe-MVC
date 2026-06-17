@@ -1,0 +1,13 @@
+﻿@page
+@model AccessDeniedModel
+@{
+    ViewData["Title"] = "Access denied";
+}
+
+<header class="d-flex flex-column justify-content-center align-items-center gap-4">
+    <h1 class="text-danger text-center m-5 fw-bold">@ViewData["Title"]</h1>
+    <h3 class="text-danger">You do not have access to this resource</h3>
+    <img class="img-thumbnail" src="/img/denegado.jpg" title="Forbidden sign" width="700" height="500">
+    
+</header>
+<a class="btn btn-info mt-5" asp-action="Index">Back</a>

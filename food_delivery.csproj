@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Areas\Identity\Pages\Account\Logout.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Identity\Pages\Account\AccessDenied.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\Logout.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\Login.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\_ViewImports.cshtml" />
+    <None Include="Areas\Identity\Pages\_ValidationScriptsPartial.cshtml" />
+    <None Include="Areas\Identity\Pages\_ViewImports.cshtml" />
+    <None Include="Areas\Identity\Pages\_ViewStart.cshtml" />
+    <None Include="Views\Manager\List.cshtml" />
+    <None Include="Views\Manager\Reservations.cshtml" />
+    <None Include="Views\dishes\Create.cshtml" />
+    <None Include="Views\dishes\Delete.cshtml" />
+    <None Include="Views\dishes\Details.cshtml" />
+    <None Include="Views\dishes\Edit.cshtml" />
+    <None Include="Views\dishes\Index.cshtml" />
+    <None Include="Views\Reservations\Create.cshtml" />
+    <None Include="Views\Reservations\Delete.cshtml" />
+    <None Include="Views\Reservations\Details.cshtml" />
+    <None Include="Views\Reservations\Edit.cshtml" />
+    <None Include="Views\Reservations\Index.cshtml" />
+    <None Include="Views\Reservations\RateRestaurantDish.cshtml" />
+    <None Include="Views\restaurants\Create.cshtml" />
+    <None Include="Views\restaurants\Delete.cshtml" />
+    <None Include="Views\restaurants\Details.cshtml" />
+    <None Include="Views\restaurants\Edit.cshtml" />
+    <None Include="Views\restaurants\Index.cshtml" />
+    <None Include="Views\User\Details.cshtml" />
+    <None Include="Views\User\Edit.cshtml" />
+    <None Include="Views\User\Index.cshtml" />
+    <None Include="Views\User\DishList.cshtml" />
+    <None Include="Views\User\Reservation.cshtml" />
+    <None Include="Views\User\restList.cshtml" />
+    <None Include="Views\zones\Create.cshtml" />
+    <None Include="Views\zones\Delete.cshtml" />
+    <None Include="Views\zones\Details.cshtml" />
+    <None Include="Views\zones\Edit.cshtml" />
+    <None Include="Views\zones\Index.cshtml" />
+  </ItemGroup>
+
+</Project>

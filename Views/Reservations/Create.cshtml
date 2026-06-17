@@ -1,0 +1,66 @@
+﻿@model food_delivery.Models.ReservationDTO
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-12 col-md-8">
+        <h1 class="text-center">Make a reservation</h1>
+        <h4>reservation</h4>
+        <hr />
+        <form method="post" asp-controller="Reservations" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group my-3">
+                <label for="restaurant" class="control-label mt-3 fw-bold">Restaurant</label>
+                <input id="restaurant" asp-for="RestaurantName" class="form-control mt-3"  />
+                <input type="hidden" asp-for="RestId" />
+                <span asp-validation-for="RestaurantName" class="text-danger"></span>
+            </div>
+            <div class="form-group my-3">
+                <label for="useName" class="control-label mt-3 fw-bold">Name:</label>
+                <input id="useName" asp-for="UserName" class="form-control mt-3"  />
+                <input type="hidden" asp-for="UserId" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group my-3">
+                <label for="amount" class="control-label mt-3 fw-bold">Number Of Guests</label>
+                <input id="amount" asp-for="NumberOfGuests" class="form-control mt-3" />
+                <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+            </div>
+            <div class="form-group my-3">
+                <label for="date" class="control-label mt-3 fw-bold">Choose the reservation date</label>
+                <input id="date" asp-for="ReservationDate" class="form-control mt-3" pattern="\d{4}-\d{2}-\d{2}" title="The date must be later than the current date." required />
+                <span asp-validation-for="ReservationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <input type="submit" value="Confirm" class="btn btn-success me-5" />
+                <a class="btn btn-primary" asp-controller="Restaurants" asp-action="Index">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    var dateInput = document.getElementById("data");
+    var currentdate = new Date().toISOString().split("T")[0];
+    dateInput.setAttribute("min", currentdate);
+
+    dateInput.addEventListener("input", function (event) {
+        var selectedDate = event.target.value;
+        var dateError = document.getElementById("dateError");
+
+        if (selectedDate <= currentdate) {
+            dateError.style.display = "block";
+        } else {
+            dateError.style.display = "none";
+        }
+    });
+</script>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

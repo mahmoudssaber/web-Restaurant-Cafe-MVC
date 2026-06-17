@@ -1,0 +1,67 @@
+﻿@page
+@model RegisterModel
+<div>
+    <h2>Create a new account</h2>
+    <hr />
+</div>
+<div class="row">
+    
+    <div class="col-12 col-md-4 mt-3">
+        <form class="background text-center" id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <!--New part to be adapted to the front-->
+            <div class="form-group my-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.FirstName">First Name</label>
+                <input asp-for="Input.FirstName" class="form-control" autocomplete="given-name" placeholder="Enter your first name" aria-required="true" />
+                <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.LastName">Last Name</label>
+                <input asp-for="Input.LastName" class="form-control" autocomplete="family-name" placeholder="Enter your last name" aria-required="true" />
+                <span asp-validation-for="Input.LastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.PhoneNumber">Phone Number</label>
+                <input asp-for="Input.PhoneNumber" class="form-control" autocomplete="tel" placeholder="Enter your phone number" aria-required="true" />
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.Email">Email</label>
+                <input asp-for="Input.Email" class="form-control" autocomplete="email" placeholder="Enter your email address" aria-required="true" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.Password">Password</label>
+                <input asp-for="Input.Password" type="password" class="form-control" autocomplete="new-password" placeholder="Create a password" aria-required="true" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="mb-3 text-white fw-bolder" asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <input asp-for="Input.ConfirmPassword" type="password" class="form-control" autocomplete="new-password" placeholder="Re-enter your password" aria-required="true" />
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg bg-dark text-white">Register</button>
+
+        </form>
+    </div>
+    <div class="col-12 col-md-8 mt-3">
+        <div class="card" style="width:100%;">
+            <img src="~/logo.png" class="card-img-top" alt=" restaurant photo">
+            <div class="card-body">
+                <h5 class="card-title text-center fs-1 fw-bold my-3">Restaurant</h5>
+                <p class="card-text justified">Welcome to [Resturant], your exclusive platform for restaurant reservations! By signing up, you can browse a wide selection of restaurants, view detailed menus, and check out ratings for individual dishes before you reserve a table. Discover top-rated dishes, explore new dining spots, and book your reservations effortlessly. Whether you're planning a special night out or just want to try something new, [Resturant] ensures a seamless experience for finding and booking your favorite restaurants. Sign up now and start exploring the best dining options near you!</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

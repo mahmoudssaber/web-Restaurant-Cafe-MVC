@@ -1,0 +1,44 @@
+﻿@model food_delivery.Models.Dish
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3 class="fs-bold text-primary text-center">Are you sure to delete this Dish?</h3>
+<hr />
+
+<div class="row">
+    <div class="col-12 col-md-5 mb-5">
+        <!--Here is the photo of the restaurant-->
+        <img class="img-thumbnail" src='~/img/Dishes/@Html.DisplayFor(model => model.ImageURL)' title="Image of the Dish" alt="@Html.DisplayFor(model => model.Description)" width="400" height="300" />
+    </div>
+    <div class="col-12 col-md-7">
+        <h4>Dish</h4>  
+        <dl class="row">
+            <dt class="col-4">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-8">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-4">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-8">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class="col-4 text-capitalize">
+                @Html.DisplayNameFor(model => model.type)
+            </dt>
+            <dd class="col-8">
+                @Html.DisplayFor(model => model.type.Name)
+            </dd>
+        </dl>
+    
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="TypeId" />
+            <input type="submit" value="Delete" class="btn btn-danger me-5" />
+            <a class="btn btn-info" asp-action="Index">Back</a>
+        </form>
+    </div>
+</div>

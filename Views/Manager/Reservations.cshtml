@@ -1,0 +1,147 @@
+﻿@model List<food_delivery.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 class="text-center fw-bold mb-5">Reservation List</h2>
+
+<div class="table responsive p-5">
+    <hr />
+    <h4>Pending Reservations</h4>
+    <table class="table table-hover table-striped table-info mt-3 fondo_tablas_Reservation text-center">
+    <thead>
+        <tr>
+            <th>Reservation Date</th>
+            <th>Guests</th>
+            <th class="text-capitalize">Restaurant</th>
+            <th class="text-capitalize">Reservation Name</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                if (item.status.Name.Equals("Pending"))
+                {
+                <tr>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.ReservationDate)
+                    </td>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.NumberOfGuests)
+                    </td>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.restaurant.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CustomUser.FirstName)
+                    </td>
+                    <td class="d-flex flex-column flex-md-row gap-3 justify-content-center">
+                        <a class="btn btn-success" asp-controller="Manager" asp-action="Confirm" asp-route-id="@item.Id" class="btn btn-outline-info" title="Confirm reservation">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                            </svg>
+                        </a>
+
+                        <a class="btn btn-danger" asp-controller="Manager" asp-action="Cancel" asp-route-id="@item.Id" class="btn btn-outline-success" title="Cancel reservation">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                                <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
+                            </svg>
+                        </a>                       
+                    </td>
+                </tr>
+            }           
+        }
+    </tbody>
+</table>
+</div>
+
+<div class="table responsive p-5">
+    <hr/>
+    <h4>Active Reservations</h4>
+    <table class="table table-hover table-striped table-secondary mt-3 fondo_tablas_reserva text-center">
+        <thead>
+            <tr>
+                <th>Reservation Date</th>
+                <th>Guests</th>
+                <th class="text-capitalize">Restaurant</th>
+                <th class="text-capitalize">Reservation Name</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.status.Name.Equals("Active"))
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ReservationDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NumberOfGuests)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.restaurant.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomUser.FirstName)
+                        </td>
+                        <td class="d-flex flex-column flex-md-row gap-3 justify-content-center">
+                            <a class="btn btn-dark" asp-controller="Manager" asp-action="Complete" asp-route-id="@item.Id" title="Mark reservation as completed">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                    <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                </svg>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div class="my-5">
+        <button id="ManagerButton" class="btn btn-primary" title="Show reservation history">Show History</button>
+    </div>
+</div>
+
+<div id="history" class="my-2 hidden table responsive p-5">
+    <h4>Completed Reservations</h4>
+    <table class="table table-hover table-striped table-dark mt-3 fondo_tablas_listas text-center">
+        <thead>
+            <tr>
+                <th>Reservation Date</th>
+                <th>Guests</th>
+                <th class="text-capitalize">Restaurant</th>
+                <th class="text-capitalize">Reservation Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.status.Name.Equals("Completed"))
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ReservationDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NumberOfGuests)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.restaurant.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomUser.FirstName)
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_HistoryButtonPartial");
+    }
+}

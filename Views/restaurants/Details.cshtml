@@ -1,0 +1,170 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<CustomUser> SignInManager
+@inject UserManager<CustomUser> UserManager
+
+@model food_delivery.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h3>Restaurant details</h3>
+<hr />
+<div>
+    <div class="row">
+        <div class="col-12 col-md-7 mb-5">
+            <!--Here is the photo of the restaurant-->
+            <img src='~/img/restaurants/@Model.RestUrl' title="Restaurant image" alt="@Html.DisplayFor(model => model.Description)" width="400" height="300" />
+        </div>
+        <div class="col-12 col-md-5">
+            <dl class="row">
+                <dt class="col-sm-3 ">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.PhoneNumber)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.PhoneNumber)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Rating)
+                </dt>
+                <dd class="col-sm-9">
+                    @{
+                        if (Model.Rating != 0)
+                        {
+                            int i = 1;
+                            while (i <= Model.Rating)
+                            {
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill text-warning" viewBox="0 0 16 16">
+                                    <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                </svg>
+                                i++;
+                            }
+                        }
+                        else
+                        {
+                            <span>Pending Rating</span>
+                        }
+                    }
+                <dt class="col-sm-3">
+                    Specialty
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Id_typeNavigation.Name)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Zone)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Zone.Name)
+                </dd>
+            </dl>
+        </div>
+    </div>
+    <div class="row my-3">
+        <div class="col-sm-10">
+             @if (User.IsInRole("Default"))
+            {
+                <a class="btn btn-success mb-5" asp-controller="Reservations" asp-action="Create" asp-route-id="@Model?.RestaurantId">Reserve</a>
+            }
+            <h6 class="fw-bold">Restaurant dishes</h6>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover table-dark">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Type</th>
+                            <th>Rating</th>
+                            @if (!User.IsInRole("Admin"))
+                            {
+                                <th>Actions</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @if(Model.Dishes.Count != 0)
+                    {
+                            @foreach (DishDTO dish in ViewBag.DishRest) //chick it//
+                            {
+                            <tr>
+                                <td>
+                                    @dish.Name
+                                </td>
+                                <td>
+                                    @dish.Type
+                                </td>
+                                <td>
+                                        @{
+                                            if (dish.Rating != 0)
+                                            {
+                                                int i = 1;
+                                                while (i <= dish.Rating)
+                                                {
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill text-warning" viewBox="0 0 16 16">
+                                                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                                    </svg>
+                                                    i++;
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <span>Pending Rating</span>
+                                            }
+
+                                        }
+                                </td>
+                                    @if (!User.IsInRole("Admin"))
+                                    {
+                                        <td>
+                                            @if (User.IsInRole("Default"))
+                                            {
+                                                <a asp-controller="User" asp-action="AddDish" asp-route-id="@dish.Id" class="btn btn-warning" title="Add dish to favorites">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                        <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z" />
+                                                    </svg>
+                                                </a>
+                                            }
+                                            else
+                                            {
+
+                                                <a asp-controller="Manager" asp-action="DeleteDish" asp-route-id="@dish.Id" class="btn btn-danger" title="Remove dish from list">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash2" viewBox="0 0 16 16">
+                                                        <path d="M14 3a.702.702 0 0 1-.037.225l-1.684 10.104A2 2 0 0 1 10.305 15H5.694a2 2 0 0 1-1.973-1.671L2.037 3.225A.703.703 0 0 1 2 3c0-1.105 2.686-2 6-2s6 .895 6 2zM3.215 4.207l1.493 8.957a1 1 0 0 0 .986.836h4.612a1 1 0 0 0 .986-.836l1.493-8.957C11.69 4.689 9.954 5 8 5c-1.954 0-3.69-.311-4.785-.793z" />
+                                                    </svg>
+                                                </a>
+                                            }
+
+                                        </td>
+                                    }
+                                
+                            </tr>
+                        }
+                    }
+                
+                   
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div>
+           
+            @if (User.IsInRole("Default") || User.IsInRole("Admin"))
+            {
+                <a asp-action="Index" class="btn btn-primary my-3">Back</a>
+            }
+            else
+            {
+                <a asp-controller="Manager" asp-action="List" asp-route-id="@UserManager.GetUserId(User)" class="btn btn-primary my-3">Back</a>
+            }
+
+        </div>
+        
+    </div>
+</div>
+

@@ -1,0 +1,35 @@
+﻿@model food_delivery.Models.Zone
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-12 col-md-8">
+        <h1 class="text-center">Create Zones</h1>
+        <h4>Zone</h4>
+        <hr />
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label mt-3 fw-bold text-capitalize"></label>
+                <input asp-for="Name" class="form-control mt-3" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label mt-3 fw-bold text-capitalize"></label>
+                <input asp-for="Description" class="form-control mt-3" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary me-5" />
+                <a class="btn btn-info" asp-action="Index">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

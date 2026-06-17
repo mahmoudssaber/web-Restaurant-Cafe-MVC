@@ -1,0 +1,69 @@
+{
+  "CodeGenerationMode": 2,
+  "ContextClassName": "ApplicationDbContext",
+  "ContextNamespace": null,
+  "DefaultDacpacSchema": null,
+  "FilterSchemas": false,
+  "IncludeConnectionString": false,
+  "ModelNamespace": null,
+  "OutputContextPath": "Data",
+  "OutputPath": "Models",
+  "PreserveCasingWithRegex": true,
+  "ProjectRootNamespace": "food_delivery",
+  "Schemas": null,
+  "SelectedHandlebarsLanguage": 0,
+  "SelectedToBeGenerated": 2,
+  "Tables": [
+    {
+      "Name": "[dbo].[Dish]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[DishRestaurant]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Restaurant]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Type]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[RestaurantType]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[UserDishRestaurant]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[UserRestaurant]", 
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Zone]", 
+      "ObjectType": 0
+    }
+  ],
+  "UiHint": "DESKTOP-GFT9BD5.foodDelivery",
+  "UncountableWords": null,
+  "UseBoolPropertiesWithoutDefaultSql": false,
+  "UseDatabaseNames": true,
+  "UseDateOnlyTimeOnly": false,
+  "UseDbContextSplitting": false,
+  "UseFluentApiOnly": true,
+  "UseHandleBars": false,
+  "UseHierarchyId": false,
+  "UseInflector": true,
+  "UseLegacyPluralizer": false,
+  "UseManyToManyEntity": false,
+  "UseNodaTime": false,
+  "UseNoDefaultConstructor": false,
+  "UseNoObjectFilter": false,
+  "UseNullableReferences": false,
+  "UseSchemaFolders": false,
+  "UseSpatial": false,
+  "UseT4": false
+}

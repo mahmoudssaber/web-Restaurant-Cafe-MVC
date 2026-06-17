@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<CustomUser> SignInManager
+@inject UserManager<CustomUser> UserManager
+
+@model food_delivery.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+
+    <h1 class="text-center">Edit Restaurant</h1>
+    <hr />
+    <h4>Restaurant</h4>
+    <div class="col-12 col-md-5 mb-5">
+        <!--Restaurant image-->
+        <img src='~/img/restaurants/@Model.RestUrl' width="450" height="300" />
+    </div>
+    <div class="col-12 col-md-7">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="RestaurantId" />
+            <input type="hidden" asp-for="RestUrl" />
+            <input type="hidden" asp-for="Rating" />
+            <div class="form-group my-3">
+                <label asp-for="Name" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="Name" class="form-control mt-3" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="Description" class="form-control mt-3" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Image" class="control-label mt-3 fw-bold">Select the image: </label>
+                <input type="file" accept="image/*" name="Image" id="Image" class="form-control mt-3" />
+                <span class="text-danger">@ViewBag?.error</span>
+            </div>
+            <div class="form-group my-3">
+                <label asp-for="PhoneNumber" class="control-label mt-3 fw-bold"></label>
+                <input asp-for="PhoneNumber" class="form-control mt-3" pattern="[0-11]{11}" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group my-3">
+                <label for="Id_tipo" class="control-label mt-3 fw-bold">Specialty</label>
+                <select id="Id_tipo" asp-for="TypeId" class="form-control mt-3" asp-items="ViewBag.TypeId"></select>
+            </div>
+            <div class="form-group mt-5 me-5">
+                <input type="submit" value="Keep" class="btn btn-primary me-5" />
+                <a class="btn btn-info" asp-controller="Manager" asp-action="List" asp-route-id="@UserManager.GetUserId(User)">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

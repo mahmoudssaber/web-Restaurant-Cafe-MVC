@@ -1,0 +1,789 @@
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.staticwebassets.runtime.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.exe
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.deps.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.runtimeconfig.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.pdb
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.food_delivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.build.food_delivery.props
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.food_delivery.props
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.food_delivery.props
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\bundle\food_delivery.styles.css
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\projectbundle\food_delivery.bundle.scp.css
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\refint\food_delivery.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.pdb
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.genruntimeconfig.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\ref\food_delivery.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\efpt.config.json
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_del.C768D16B.Up2Date
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\source\repos\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cs
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.Development.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\efpt.config.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.staticwebassets.runtime.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.exe
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.deps.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.runtimeconfig.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.pdb
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Core.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Identity.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Humanizer.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Common.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.CodeDom.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Memory.Data.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.AssemblyReference.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfoInputs.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfo.cs
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.CoreCompileInputs.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cs
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cs
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.build.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.development.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.food_delivery.Microsoft.AspNetCore.StaticWebAssets.props
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.build.food_delivery.props
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.food_delivery.props
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.food_delivery.props
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.pack.json
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\bundle\food_delivery.styles.css
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\projectbundle\food_delivery.bundle.scp.css
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_del.C768D16B.Up2Date
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\refint\food_delivery.dll
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.pdb
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.genruntimeconfig.cache
+E:\fci\fci 4\semaster 2\software development\project\food_delivery\food_delivery\obj\Debug\net8.0\ref\food_delivery.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.Development.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\appsettings.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\efpt.config.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.staticwebassets.runtime.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.exe
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.deps.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.runtimeconfig.json
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\food_delivery.pdb
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Core.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Azure.Identity.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Humanizer.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Common.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.CodeDom.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Memory.Data.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\fci\summer\project\food_delivery\food_delivery\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.AssemblyReference.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfoInputs.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.AssemblyInfo.cs
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.csproj.CoreCompileInputs.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cs
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.MvcApplicationPartsAssemblyInfo.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.RazorAssemblyInfo.cs
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.build.json
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.development.json
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.food_delivery.Microsoft.AspNetCore.StaticWebAssets.props
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.build.food_delivery.props
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.food_delivery.props
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.food_delivery.props
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\staticwebassets.pack.json
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\bundle\food_delivery.styles.css
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\scopedcss\projectbundle\food_delivery.bundle.scp.css
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_del.C768D16B.Up2Date
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.dll
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\refint\food_delivery.dll
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.pdb
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\food_delivery.genruntimeconfig.cache
+E:\fci\summer\project\food_delivery\food_delivery\obj\Debug\net8.0\ref\food_delivery.dll

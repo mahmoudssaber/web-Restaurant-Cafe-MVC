@@ -1,0 +1,36 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using food_delivery.Models
+
+@inject SignInManager<CustomUser> SignInManager
+@inject UserManager<CustomUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <span class="nav-link text-white">Welcome  @UserManager.GetUserName(User)</span>
+    </li>
+        if (!User.IsInRole("Admin"))
+        {
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-controller="User" asp-action="Details" asp-route-id="@UserManager.GetUserId(User)">My profile</a>
+            </li>
+        }
+
+        <li class="nav-item">
+            <form id="logoutForm" class="form-inline" asp-controller="User" asp-action="Logout" method="post">
+                <button id="logout" type="submit" class="nav-link btn btn-link text-white">Logout</button>
+            </form>
+        </li>
+
+}
+else
+{
+    <li class="nav-item">
+            <a class="nav-link text-white id="register" asp-area="Identity" asp-page="/Account/Register">Sign up</a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-white" id="login" asp-area="Identity" asp-page="/Account/Login">Log in</a>
+    </li>
+}
+</ul>

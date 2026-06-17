@@ -1,0 +1,199 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = food_delivery
+build_property.RootNamespace = food_delivery
+build_property.ProjectDir = E:\work_section\projects_source_code\project_.net\Food_Delivery\food_delivery\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\work_section\projects_source_code\project_.net\Food_Delivery\food_delivery
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/dishes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzaGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/dishes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzaGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/dishes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzaGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/dishes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzaGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/dishes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzaGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Manager/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Manager/Reservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Reservations/RateRestaurantDish.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXFJhdGVSZXN0YXVyYW50RGlzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/restaurants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdGF1cmFudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/restaurants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdGF1cmFudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/restaurants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdGF1cmFudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/restaurants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdGF1cmFudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/restaurants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdGF1cmFudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Shared/_HistoryButtonPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IaXN0b3J5QnV0dG9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/DishList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEaXNoTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/Reservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/User/restList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxyZXN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/zones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncem9uZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/zones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncem9uZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/zones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncem9uZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/zones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncem9uZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/zones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncem9uZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Food_Delivery/food_delivery/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n9jlf6a9w0

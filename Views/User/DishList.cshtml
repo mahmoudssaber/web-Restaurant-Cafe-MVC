@@ -1,0 +1,75 @@
+﻿@model IEnumerable<food_delivery.Models.RestaurantDish>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 class="text-center mb-5">favorite List</h2>
+
+<div class="table-responsive p-5">
+
+    <table class="table table-striped table-hover table-bordered table-dark fondo_tablas_listas text-center">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.dish.Name)
+                </th>
+                <th>Restaurant</th>
+                <th class="text-capitalize">
+                    @Html.DisplayNameFor(model => model.Rating)
+                </th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.dish.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.restaurant.Name)
+                    </td>
+                    <td>
+                        @{
+                            if (item.Rating != 0)
+                            {
+                                int i = 1;
+                                while (i <= item.Rating)
+                                {
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill text-warning" viewBox="0 0 16 16">
+                                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg>
+                                    i++;
+                                }
+                            }
+                            else
+                            {
+                                <span>Pending Rating</span>
+                            }
+                        }
+                    </td>
+                    <td class="d-flex flex-column flex-md-row gap-3 justify-content-center">
+                        <a asp-controller="Dishes" asp-action="Details" asp-route-id="@item.dish.DishId" class="btn btn-success" title="View restaurant details">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+                                <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z" />
+                                <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z" />
+                            </svg>
+                        </a>
+
+                        <a asp-controller="User" asp-action="DeleteDish" asp-route-id="@item.Id" class="btn btn-danger" title="Delete dish from favorites">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash2" viewBox="0 0 16 16">
+                                <path d="M14 3a.702.702 0 0 1-.037.225l-1.684 10.104A2 2 0 0 1 10.305 15H5.694a2 2 0 0 1-1.973-1.671L2.037 3.225A.703.703 0 0 1 2 3c0-1.105 2.686-2 6-2s6 .895 6 2zM3.215 4.207l1.493 8.957a1 1 0 0 0 .986.836h4.612a1 1 0 0 0 .986-.836l1.493-8.957C11.69 4.689 9.954 5 8 5c-1.954 0-3.69-.311-4.785-.793z" />
+                            </svg>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary my-3">Back</a>
+    </div>
+</div>
+

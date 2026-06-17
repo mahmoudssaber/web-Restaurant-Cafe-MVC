@@ -1,0 +1,38 @@
+﻿@model food_delivery.Models.Zone
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3 class="fs-bold text-primary text-center">Are you sure to delete this area?</h3>
+<hr />
+
+<div class ="row">
+
+    <div class="col-12 col-sm-5 mb-5">
+        <img class="img-thumbnail" src='~/img/zones/' width="450" height="300" alt="Landscape of the area" />
+    </div>
+    <div class="col-12 col-sm-7">
+        <h3>Zone</h3>
+        <dl class="row">     
+            <dt class="col-4 col-sm-5 text-capitalize">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-8 col-sm-7">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-4 col-sm-5 text-capitalize">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-8 col-sm-7">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+        </dl>
+    
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ZoneId" />
+            <input type="submit" value="Eliminate" class="btn btn-danger me-5" />
+            <a class="btn btn-info" asp-action="Index">Back</a>
+        </form>
+    </div>
+</div>
